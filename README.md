@@ -10,4 +10,5 @@ Several example datasets are included that the user can use to test the script. 
 At the moment (24 March 2020) this is notebook is limited in scope, but further develepments will be made in the future. Additional notebooks dealing with more complex EDS analysis will also be uploaded in due course. If you find any issues or if you want to contribute please let me know.
 
 Dan
+
 daniel.kelly@manchester.ac.uk
